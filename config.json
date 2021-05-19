@@ -1,0 +1,17 @@
+{
+  "handlers_root_folder": "handlers",
+  "api_url": "api",
+  "default_api_version": 1,
+  "dbase_connection_settings": "sqlite:///:memory:",
+  "port": 8080,
+
+  "client": {
+    "user": "User2",
+    "password": "Password",
+    "base_url": "http://127.0.0.1",
+    "portfolio_endpoint": "portfolio",
+    "transactions_endpoint": "transactions",
+    "prices_endpoint": "prices",
+    "api_version": 1
+  }
+}

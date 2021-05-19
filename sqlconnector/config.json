@@ -1,0 +1,6 @@
+{
+  "handlers_root_folder": "handlers",
+  "api_url": "api",
+  "default_api_version": 1,
+  "dbase_connection_settings": "sqlite:///:memory:"
+}
